@@ -7,7 +7,7 @@
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: osTicket Tutorial (Part 2/3) Configuration](enterlinkhere)
+- ### [YouTube: osTicket Tutorial (Part 2/3) Configuration](enterlinkhere) - In Progress
 
 ## 📌 Project Overview
 
